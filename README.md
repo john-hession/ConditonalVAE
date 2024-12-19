@@ -1,4 +1,4 @@
-##README
+### README ###
 
 This project implements and analyzes Conditional Variational Autoencoders (cVAEs) on FashionMNIST and COCO. 
 Our implementations explore the capabilities of conditional VAEs at several scales in both structured, simple domains and complex, real-world images.
